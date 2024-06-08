@@ -1,0 +1,125 @@
+.navbar {
+    background: rgb(30, 30, 30);
+    height: 45px;
+    width: 100%;
+    max-width: 100vw;
+    margin: 0;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    z-index: 3;
+    border-bottom: 2px solid #383737;
+}
+
+.logo{
+    object-fit: cover;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+
+.desktopMenuListItem {
+    margin: 0 1.5rem;
+    cursor: pointer;
+}
+
+.desktopMenuListItem:hover{
+    color: white;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid white;
+}
+
+.desktopMenuBtn{
+    background: white;
+    height: 30px;
+    width: 160px;
+    color: black;
+    border: none;
+    display: flex;
+    align-items:center;
+    justify-content: flex-start;
+    object-fit: cover;
+    padding: 0 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+.desktopMenuBtn:hover {
+    background-color: white}
+
+.desktopMenuBtn:active {
+  background-color: white;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.desktopMenuImg{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin: 1rem;
+    object-fit: cover;
+}
+
+.active {
+    color: red;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid red;
+}
+
+.mobMenu {
+    height: 2.2rem;
+    width: 2.2rem;
+    border-radius: 15%;
+    display: none;
+}
+
+.navMenu {
+    position: absolute;
+    top: 4rem;
+    right: 2rem;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    height: fit-content;
+    min-width: 15rem;
+    background: rgb(40, 40, 40);
+    border-radius: 1rem;
+    
+}
+
+.listItem {
+    color: white;
+    padding: 0.5rem 3rem;
+    margin: 0.25rem;
+    background: rgb(30, 30, 30);
+}
+
+
+@media screen and (max-width: 750px) {
+    .navbar {
+        height: auto;
+        max-width: 100vw;
+        padding: 0.4rem 1rem;
+    }
+
+    .logo{
+        object-fit: cover;
+        height: 3rem;
+        width: 3rem;
+        border-radius: 50%;
+    }
+
+    .mobMenu {
+        display:flex;
+    }
+    .desktopMenu {
+        display: none;
+    }
+    .desktopMenuBtn {
+        display: none;
+    }
+}
