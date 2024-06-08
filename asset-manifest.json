@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.a27830bc.css",
-    "main.js": "/my-portfolio/static/js/main.95c2eee2.js",
-    "static/media/self.png": "/my-portfolio/static/media/self.a6809cf263f4343518c2.png",
-    "static/media/portfolioImg1.png": "/my-portfolio/static/media/portfolioImg1.362982d5fdfa083add7c.png",
-    "static/media/portfolioImg3.png": "/my-portfolio/static/media/portfolioImg3.b61580db4b421b2c5d6e.png",
-    "static/media/portfolioImg2.png": "/my-portfolio/static/media/portfolioImg2.4ca7a0de5e9d0a374eca.png",
-    "static/media/portfolioImg4.png": "/my-portfolio/static/media/portfolioImg4.33ad5591f8c25b328110.png",
-    "static/media/instaicon.png": "/my-portfolio/static/media/instaicon.a1dc57d52d70afce8cab.png",
-    "static/media/datascience.png": "/my-portfolio/static/media/datascience.1fee7d9823d194c4d00a.png",
-    "static/media/contactme.png": "/my-portfolio/static/media/contactme.9d469f0ff5fa832cf011.png",
-    "static/media/wrench.png": "/my-portfolio/static/media/wrench.0e2cb96ecfeb8b74d6d5.png",
-    "static/media/softwaredev.png": "/my-portfolio/static/media/softwaredev.25829c68bc3a79af6b0f.png",
-    "static/media/programlang.png": "/my-portfolio/static/media/programlang.a1a68db01089a0d76f9b.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.a27830bc.css.map": "/my-portfolio/static/css/main.a27830bc.css.map",
-    "main.95c2eee2.js.map": "/my-portfolio/static/js/main.95c2eee2.js.map"
+    "main.css": "/static/css/main.a27830bc.css",
+    "main.js": "/static/js/main.c0fef40d.js",
+    "static/media/self.png": "/static/media/self.a6809cf263f4343518c2.png",
+    "static/media/portfolioImg1.png": "/static/media/portfolioImg1.362982d5fdfa083add7c.png",
+    "static/media/portfolioImg3.png": "/static/media/portfolioImg3.b61580db4b421b2c5d6e.png",
+    "static/media/portfolioImg2.png": "/static/media/portfolioImg2.4ca7a0de5e9d0a374eca.png",
+    "static/media/portfolioImg4.png": "/static/media/portfolioImg4.33ad5591f8c25b328110.png",
+    "static/media/instaicon.png": "/static/media/instaicon.a1dc57d52d70afce8cab.png",
+    "static/media/datascience.png": "/static/media/datascience.1fee7d9823d194c4d00a.png",
+    "static/media/contactme.png": "/static/media/contactme.9d469f0ff5fa832cf011.png",
+    "static/media/wrench.png": "/static/media/wrench.0e2cb96ecfeb8b74d6d5.png",
+    "static/media/softwaredev.png": "/static/media/softwaredev.25829c68bc3a79af6b0f.png",
+    "static/media/programlang.png": "/static/media/programlang.a1a68db01089a0d76f9b.png",
+    "index.html": "/index.html",
+    "main.a27830bc.css.map": "/static/css/main.a27830bc.css.map",
+    "main.c0fef40d.js.map": "/static/js/main.c0fef40d.js.map"
   },
   "entrypoints": [
     "static/css/main.a27830bc.css",
-    "static/js/main.95c2eee2.js"
+    "static/js/main.c0fef40d.js"
   ]
 }
