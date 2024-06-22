@@ -23,7 +23,7 @@ const Works = () => {
                     <img src={Portfolio3} alt="Airline Dataset Analysis and Visualisation" className="worksImg" />
                     <p className="workDesc">Airline Dataset Analysis and Visualisation</p>
                 </a>
-                <a href={"https://github.com/rossdumpit/Hospital-management-system-using-Mysql"} target="_blank" rel="noopener noreferrer" className="workItem">
+                <a href={"https://github.com/rossdumpit/IOT-homa-based-health-monitor-connected-to-ThingSpeak-"} target="_blank" rel="noopener noreferrer" className="workItem">
                     <img src={Portfolio4} alt="IoT based Health Monitoring System Using Arduino" className="worksImg" />
                     <p className="workDesc">Iot based Health Monitoring System</p>
                 </a>
