@@ -1,24 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a27830bc.css",
-    "main.js": "/static/js/main.0d5c26a5.js",
-    "static/media/self.png": "/static/media/self.a6809cf263f4343518c2.png",
-    "static/media/portfolioImg1.png": "/static/media/portfolioImg1.362982d5fdfa083add7c.png",
-    "static/media/portfolioImg3.png": "/static/media/portfolioImg3.b61580db4b421b2c5d6e.png",
-    "static/media/portfolioImg2.png": "/static/media/portfolioImg2.4ca7a0de5e9d0a374eca.png",
-    "static/media/portfolioImg4.png": "/static/media/portfolioImg4.33ad5591f8c25b328110.png",
-    "static/media/instaicon.png": "/static/media/instaicon.a1dc57d52d70afce8cab.png",
-    "static/media/datascience.png": "/static/media/datascience.1fee7d9823d194c4d00a.png",
-    "static/media/contactme.png": "/static/media/contactme.9d469f0ff5fa832cf011.png",
-    "static/media/wrench.png": "/static/media/wrench.0e2cb96ecfeb8b74d6d5.png",
-    "static/media/softwaredev.png": "/static/media/softwaredev.25829c68bc3a79af6b0f.png",
-    "static/media/programlang.png": "/static/media/programlang.a1a68db01089a0d76f9b.png",
+    "main.css": "/static/css/main.967a1d2b.css",
+    "main.js": "/static/js/main.650ca187.js",
+    "static/media/self.png": "/static/media/self.b29816f02063bf33076a.png",
+    "static/media/airplane.png": "/static/media/airplane.b7f842fbe43dadeaf9e2.png",
+    "static/media/hospital.png": "/static/media/hospital.4084f028edddbcb83b62.png",
+    "static/media/stocks.png": "/static/media/stocks.80e9d93c100c827cac0e.png",
+    "static/media/healthmonitor.png": "/static/media/healthmonitor.09e1abeec51222c48a7d.png",
+    "static/media/CV.pdf": "/static/media/CV.d1779109fe79e9e416bc.pdf",
     "index.html": "/index.html",
-    "main.a27830bc.css.map": "/static/css/main.a27830bc.css.map",
-    "main.0d5c26a5.js.map": "/static/js/main.0d5c26a5.js.map"
+    "main.967a1d2b.css.map": "/static/css/main.967a1d2b.css.map",
+    "main.650ca187.js.map": "/static/js/main.650ca187.js.map"
   },
   "entrypoints": [
-    "static/css/main.a27830bc.css",
-    "static/js/main.0d5c26a5.js"
+    "static/css/main.967a1d2b.css",
+    "static/js/main.650ca187.js"
   ]
 }
