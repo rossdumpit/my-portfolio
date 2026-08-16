@@ -17,7 +17,6 @@ const LinksList = ()=>{
         <ListItem icon='facebook' label='rosvelt.dumpit' href='https://www.facebook.com/rosvelt.dumpit/'/>
         <ListItem icon='instagram' label='ross01_online' href='https://www.instagram.com/ross01_online/'/>
         <ListItem icon='file-earmark-text' label='Resume' href={CV}/>
-        <ListItem icon="database" label="Australia ED Data" href="https://rossdumpit.github.io/ozmap/front.html"/>
     </ul>
     )
 }
